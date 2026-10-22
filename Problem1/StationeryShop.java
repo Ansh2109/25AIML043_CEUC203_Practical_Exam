@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 class Product {
     private final String name;
     private final int price;
